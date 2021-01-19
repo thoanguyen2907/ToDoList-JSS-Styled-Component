@@ -1,3 +1,15 @@
+
+To Do List project is applied React + Redux  + JSS Styled Component 
+Features: 
+Add Item | Delete Item  | Update Item  |  Categorize item 
+Using LifeCycle to update Item. 
+Using JSS Styled Component to change theme easily, no need SASS
+
+Here is illustration: 
+
+![github](https://media.giphy.com/media/eYCGpfjTirQ0lgPFPx/giphy.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
